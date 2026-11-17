@@ -1,0 +1,13 @@
+projection.fov_y_radians 1.57079632679
+projection.z_near 1.0
+projection.z_far 5.0
+object.translation_x 0.25
+object.translation_y 0.0
+object.translation_z 0.0
+material.tint_r 1.0
+material.tint_g 1.0
+material.tint_b 1.0
+light.direction_to_light_x 0.0
+light.direction_to_light_y 0.0
+light.direction_to_light_z 1.0
+light.intensity 1.0
